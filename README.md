@@ -1,4 +1,4 @@
-- **Total Solved:** 157
-- **Easy:** 63
-- **Medium:** 85
-- **Hard:** 9
+- **Total Solved:** 1
+- **Easy:** 1
+- **Medium:** 0
+- **Hard:** 0
